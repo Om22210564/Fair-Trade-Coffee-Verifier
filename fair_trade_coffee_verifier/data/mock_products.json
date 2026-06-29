@@ -1,0 +1,24 @@
+{
+  "001234567890": {
+    "code": "001234567890",
+    "status": 1,
+    "product": {
+      "product_name": "Sunrise Organic Roast",
+      "brands": "Honest Beans Co.",
+      "labels": "Organic, Fair Trade",
+      "manufacturing_places": "Bogota, Colombia",
+      "origin_farm_name": "Finca El Paraiso"
+    }
+  },
+  "009876543210": {
+    "code": "009876543210",
+    "status": 1,
+    "product": {
+      "product_name": "Eco-Friendly Earth Blend",
+      "brands": "Global MegaCorp Coffee",
+      "labels": "Sustainable, Eco-Friendly, 100% Natural",
+      "manufacturing_places": "Industrial Processing Facility 4",
+      "origin_farm_name": "Mass Harvest Plantations Ltd."
+    }
+  }
+}
